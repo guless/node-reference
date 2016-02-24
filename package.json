@@ -1,0 +1,10 @@
+{
+  "name": "node-reference",
+  "version": "0.0.0",
+  "description": "node-reference",
+  "main": "app.js",
+  "author": {
+    "name": "Samlv9",
+    "email": ""
+  }
+}
