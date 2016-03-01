@@ -1,10 +1,11 @@
 {
-  "name": "node-reference",
-  "version": "0.0.0",
-  "description": "node-reference",
-  "main": "app.js",
-  "author": {
-    "name": "Samlv9",
-    "email": ""
-  }
+    "name": "node-reference",
+    "main": "reference.js",
+    "version"    : "1.0.0",
+    "description": "用于编译基于 VSDOC 中 reference 语法进行模块划分的脚本的 nodejs 工具。",
+    "author"     : "Samlv9 <Samlv9@live.com>",
+    "homepage"   : "https://github.com/guless/node-reference",
+    "repository" : { "type": "git", "url": "https://github.com/guless/node-reference.git" },
+    "license"    : "MIT",
+    "files"      : [ "reference.js","lib/","package.json","LICENSE.txt" ]
 }
